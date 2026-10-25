@@ -1,0 +1,9 @@
+{
+  "N": 3000,
+  "X": 98.43,
+  "Y": 0.0,
+  "Z": 1.0,
+  "baseline_Z": 0.313,
+  "level": "names+gender+college",
+  "threshold_met": true
+}
